@@ -1,0 +1,23 @@
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 10px;
+  background-color: #007bff;
+  color: #fff;
+}
+
+.brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.main-content {
+  padding-top: 60px;
+}
+.navbar_wrapper {
+  padding-top: 60px; /* Adjust as needed */
+}
